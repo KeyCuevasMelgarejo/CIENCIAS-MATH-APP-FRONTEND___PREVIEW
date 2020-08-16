@@ -19,4 +19,4 @@ npm install
 ## Licencias
     Ciencias-Math-App@v5
     ├─┬ SASS AND TEMPLATES
-    │ └── Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
+    │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
