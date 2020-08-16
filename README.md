@@ -16,3 +16,9 @@ git clone https://github.com/KeyCuevasMelgarejo/CIENCIAS-MATH-APP
 # Instala las dependencias
 npm install
 ```
+## Licencias
+
+ # General y especificas
+    Ciencias-Math-App@v5
+    ├─┬ STYLE (SASS AND TEMPLATES)
+    │ └── Copyright (c) 2017 Creative Tim (www.creative-tim.com)
