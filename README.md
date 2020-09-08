@@ -3,7 +3,6 @@
 # Todo el código y el repositorio original estan en privado.
 ```
 # Ciencias Math App - Inicialización 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP---PREVIEW">
 
 **Clona y ejecuta el programa para ver a Ciencias Math App en uso**
 
