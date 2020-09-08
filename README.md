@@ -3,7 +3,7 @@
 # Todo el código y el repositorio original estan en privado.
 ```
 # Ciencias Math App - Inicialización  
-
+<p align="center"> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP---PREVIEW" width="350"/> </p> 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FCIENCIAS-MATH-APP---PREVIEW" alt="Hits">
 
 
