@@ -7,7 +7,7 @@ Aplicación web para la gestión de horarios, reserva y pago online de clases | 
 
 # Demo
 
-<p align="left"> 
+<p align="center"> 
  <img src="/Demo.gif"/>
 </p>
 
